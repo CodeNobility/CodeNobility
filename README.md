@@ -1,7 +1,7 @@
 - 👋 Hi, I’m prince gupta
 - 👀 I’m interested in both web development and data analysis. I enjoy building interactive and user-friendly websites, as well as diving into data analysis using tools like Python, 
-     Pandas, and Jupyter. Outside of coding, I'm passionate about playing cricket and exploring the world of data on and off the field.
-- 🌱 I’m currently learning web technologies and data analysis tools.
+     Pandas, Seaborn, Matplotlib, NumPy, SQL, Excel, Jupyter and Tableau. Outside of coding, I'm passionate about playing cricket and exploring the world of data on and off the field.
+- 🌱 I’m currently learning Fronted web technologies and Mastering data analysis tools.
 - 📫 How to reach me ...
     - GitHub : [@CodeNobility](https://github.com/CodeNobility)
     - Email : princegupta1726@gmail.com
