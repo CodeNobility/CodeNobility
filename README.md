@@ -4,7 +4,7 @@
 ## 🚀 **About Me**  
 I’m an aspiring **AI & Machine Learning Engineer**, passionate about **building intelligent systems** and uncovering insights from data. I love working with **machine learning models** and performing **data analysis** using tools like:  
 
-🔹 **Languages, Tools & Libraries:** Python, Pandas, Seaborn, Matplotlib, NumPy, SQL, Excel, Jupyter, Tableau  
+🔹 **Languages, Tools & Libraries:** Python, Pandas, Seaborn, Matplotlib, NumPy, SQL, Excel, Jupyter, Tableau, PyCharm, vscode     
 🔹 **ML Libraries:** Scikit-Learn, TensorFlow, PyTorch, Keras.     
 🔹 **Current Focus:** Deep Learning & Neural Networks  
 
