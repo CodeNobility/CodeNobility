@@ -6,7 +6,9 @@ I’m an aspiring **AI & Machine Learning Engineer**, passionate about **buildin
 
 🔹 **Languages, Tools & Libraries:** Python, Pandas, Seaborn, Matplotlib, NumPy, SQL, Excel, Jupyter, Tableau, PyCharm, vscode     
 🔹 **ML Libraries:** Scikit-Learn, TensorFlow, PyTorch, Keras.     
-🔹 **Current Focus:** Deep Learning & Neural Networks  
+🔹 **Current Focus:** Deep Learning & Neural Networks 
+🛠️ Web App Frameworks
+Streamlit – For building beautiful and fast ML-powered web apps
 
 When I’m not coding, you'll probably find me **playing cricket**, exploring the world of data both on and off the field. 🏏🔥  
 
