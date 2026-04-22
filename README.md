@@ -1,5 +1,4 @@
 
-````markdown
 <h1 align="center">👋 Hi, I'm Prince Gupta</h1>
 
 <p align="center">
@@ -20,8 +19,7 @@ const prince = {
     currentFocus: "Building AI-powered applications",
     motto: "Code with purpose, learn with passion 🚀"
 };
-````
-
+```
 ---
 
 ## 💻 Tech Stack
