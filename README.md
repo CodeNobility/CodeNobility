@@ -59,7 +59,7 @@
 
 - Streamlit, FastAPI, Flask  
 - Docker 🐳  
-- Render 🌐  
+- Render 🌐, Vercel ▲ 
 
 ---
 
