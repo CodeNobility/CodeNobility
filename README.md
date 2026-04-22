@@ -83,8 +83,7 @@ const prince = {
     environment: [
         "Anaconda 🐍",
         "Virtual Environments ⚙️"
-    ]
-}
+    ]}
 
     dataAnalysis: [
         "Data Cleaning & Preprocessing 🧹",
@@ -142,7 +141,7 @@ const prince = {
 
 </td></tr>
 </table>
----
+
 
 ## 💻 Tech Stack
 
