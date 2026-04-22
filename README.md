@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Prince Gupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%7C+ML+Engineer;Data+Science+Enthusiast;Deep+Learning+Explorer;Building+Smart+Systems+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Engineer;Data+Science+Enthusiast;Deep+Learning+Explorer;Building+Smart+Systems+🚀">
 </p>
 
 ---
@@ -87,8 +87,3 @@ always practicing, improving, and leveling up 🚀🔥
 </p>
 ```
 
----
-
-
-If you want next:
-👉 I can add **project showcase section (very important for placement)** 🚀
