@@ -9,6 +9,9 @@
 
 ## 🚀 About Me
 
+<table align="center">
+<tr><td>
+
 ```javascript
 const prince = {
     location: "India 🇮🇳",
@@ -20,6 +23,9 @@ const prince = {
     motto: "Code with purpose, learn with passion 🚀"
 };
 ```
+
+</td></tr>
+</table>
 ---
 
 ## 💻 Tech Stack
