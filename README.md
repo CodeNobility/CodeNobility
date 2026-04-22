@@ -1,8 +1,3 @@
-Got it bhaiya 👍 — here is **ONLY the README.md content** (no extra steps, no YAML, nothing else).
-
-👉 Just **copy-paste this into README.md** ✅
-
----
 
 ````markdown
 <h1 align="center">👋 Hi, I'm Prince Gupta</h1>
