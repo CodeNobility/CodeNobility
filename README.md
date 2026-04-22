@@ -15,11 +15,127 @@
 ```javascript
 const prince = {
     location: "India 🇮🇳",
-    role: "AI / ML Engineer",
-    languages: ["Python", "SQL"],
-    technologies: ["Machine Learning", "Deep Learning", "NLP"],
-    tools: ["Pandas", "NumPy", "Scikit-Learn", "TensorFlow", "PyTorch"],
-    currentFocus: "Building AI-powered applications",
+
+    role: "Data Scientist"
+
+    languages: [
+        "Python 🐍"
+    ],
+
+    dataLanguages: [
+        "SQL 🗄️"
+    ],
+
+    databases: [
+        "MongoDB 🍃 (NoSQL)",
+        "Relational Databases (MySQL/PostgreSQL)"
+    ]
+
+    domains: [
+        "Machine Learning 🤖",
+        "Deep Learning 🧠",
+        "Natural Language Processing 💬"
+    ],
+
+    librariesAndFrameworks: [
+        "Pandas 🐼",
+        "NumPy 🔢",
+        "Matplotlib 📊",
+        "Seaborn 🎨",
+        "Scikit-Learn 🤖",
+        "TensorFlow 🔥",
+        "Keras 🧠",
+        "PyTorch ⚡"
+    ],
+
+    tools: {
+    development: [
+        "VS Code 💻",
+        "Jupyter Notebook 📓",
+        "Google Colab ☁️"
+    ],
+
+    dataVisualization: [
+        "Tableau 📊",
+        "Power BI 📈",
+        "Matplotlib 📊",
+        "Seaborn 🎨"
+    ],
+
+    versionControl: [
+        "Git 🔧",
+        "GitHub 🐙"
+    ],
+
+    deployment: [
+        "Streamlit 🚀",
+        "Render 🌐",
+        "FastAPI ⚡",
+        "Flask 🌶️",
+        "Docker 🐳"
+    ],
+
+    cloudPlatforms: [
+        "AWS ☁️ (Basics)",
+        "Google Cloud ☁️ (Basics)"
+    ],
+
+    environment: [
+        "Anaconda 🐍",
+        "Virtual Environments ⚙️"
+    ]
+}
+
+    dataAnalysis: [
+        "Data Cleaning & Preprocessing 🧹",
+        "Exploratory Data Analysis (EDA) 📊",
+        "Data Visualization 📈"
+    ],
+
+   machineLearning: [
+    "Supervised Learning (Regression, Classification) 📉",
+    "Unsupervised Learning (Clustering) 📌",
+    "Feature Engineering & Feature Selection ⚙️",
+    "Data Preprocessing (Scaling, Encoding, Handling Missing Values) 🧹",
+    "Model Evaluation (Accuracy, Precision, Recall, F1-score, ROC-AUC) 📊",
+    "Cross Validation Techniques (K-Fold, Stratified) 🔁",
+    "Hyperparameter Tuning (Grid Search, Random Search) 🎯",
+    "Tree-Based Models (Decision Tree, Random Forest) 🌲",
+    "Distance-Based Models (KNN) 📍",
+    "Probabilistic Models (Naive Bayes) 📊",
+    "Ensemble Methods (Bagging, Boosting) 🚀",
+    "Overfitting & Underfitting Handling ⚖️"
+    ]
+
+    deepLearning: [
+        "Artificial Neural Networks (ANN)",
+        "Convolutional Neural Networks (CNN)",
+        "Model Training & Optimization",
+        "Backpropagation"
+    ],
+
+    nlp: [
+        "Text Preprocessing",
+        "Tokenization, Stopword Removal",
+        "Stemming & Lemmatization",
+        "Vectorization (BoW, TF-IDF)",
+        "Word Embeddings (Word2Vec)",
+        "Text Similarity"
+    ],
+
+    currentFocus: [
+        "Transformers & LLMs",
+        "Advanced Deep Learning",
+        "Building Production-ready AI Systems"
+    ],
+
+    strengths: [
+        "Problem Solving",
+        "Feature Engineering",
+        "Data Understanding",
+        "Model Optimization"
+    ],
+
     motto: "Code with purpose, learn with passion 🚀"
 };
 ```
@@ -70,8 +186,8 @@ const prince = {
 
 ## 🌱 Currently Learning
 
-* 🧠 Deep Learning (CNN, RNN, Transformers)
-* 🤖 NLP & GEN-AI
+* 🧠 Mlops
+* 🤖 GEN-AI
 
 ---
 
