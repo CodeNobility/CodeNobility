@@ -46,6 +46,14 @@ const prince = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CodeNobility/CodeNobility/main/dist/snake.svg">
+</p>
+
+---
+
 ## 💡 Daily Dev Quote
 
 <p align="center">
