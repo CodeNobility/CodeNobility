@@ -4,6 +4,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Engineer;Data+Science+Enthusiast;Deep+Learning+Explorer;Building+Smart+Systems+🚀">
 </p>
+<p align="center">
+  <a href="https://princegupta.rf.gd/?i=1">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
