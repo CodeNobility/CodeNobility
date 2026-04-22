@@ -57,8 +57,7 @@ const prince = {
 ## 🌱 Currently Learning
 
 * 🧠 Deep Learning (CNN, RNN, Transformers)
-* 🤖 NLP & Real-world ML Projects
-* 📊 Advanced Data Analysis
+* 🤖 NLP & GEN-AI
 
 ---
 
@@ -85,5 +84,4 @@ always practicing, improving, and leveling up 🚀🔥
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeNobility&color=blue&style=flat-square" />
 </p>
-```
 
