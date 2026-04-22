@@ -9,139 +9,120 @@
 
 ## 🚀 About Me
 
-<table align="center">
-<tr><td>
+<table>
+<tr>
+<td>
 
-```javascript
-const prince = {
-    location: "India 🇮🇳",
+### 👨‍💻 Profile
 
-    role: "Data Scientist"
+- 🌍 **Location:** India 🇮🇳  
+- 💼 **Role:** Data Scientist  
 
-    languages: [
-        "Python 🐍"
-    ],
+---
 
-    dataLanguages: [
-        "SQL 🗄️"
-    ],
+### 🧠 Skills
 
-    databases: [
-        "MongoDB 🍃 (NoSQL)",
-        "Relational Databases (MySQL/PostgreSQL)"
-    ]
+- 🐍 **Languages:** Python  
+- 🗄️ **Data Languages:** SQL  
+- 🍃 **Databases:** MongoDB (NoSQL), MySQL/PostgreSQL  
 
-    domains: [
-        "Machine Learning 🤖",
-        "Deep Learning 🧠",
-        "Natural Language Processing 💬"
-    ],
+---
 
-    librariesAndFrameworks: [
-        "Pandas 🐼",
-        "NumPy 🔢",
-        "Matplotlib 📊",
-        "Seaborn 🎨",
-        "Scikit-Learn 🤖",
-        "TensorFlow 🔥",
-        "Keras 🧠",
-        "PyTorch ⚡"
-    ],
+### 🤖 Domains
 
-    tools: {
-    development: [
-        "VS Code 💻",
-        "Jupyter Notebook 📓",
-        "Google Colab ☁️",
-        "PyCharm 💻"
-    ],
+- Machine Learning  
+- Deep Learning  
+- Natural Language Processing  
 
-    dataVisualization: [
-        "Tableau 📊",
-        "Power BI 📈",
-        "Matplotlib 📊",
-        "Seaborn 🎨"
-    ],
+---
 
-    versionControl: [
-        "Git 🔧",
-        "GitHub 🐙"
-    ],
+</td>
+<td>
 
-    deployment: [
-        "Streamlit 🚀",
-        "Render 🌐",
-        "FastAPI ⚡",
-        "Flask 🌶️",
-        "Docker 🐳"
-    ],
+### ⚙️ Tools & Tech
 
-    cloudPlatforms: [
-        "AWS ☁️ (Basics)",
-        "Google Cloud ☁️ (Basics)"
-    ],
+- 🧪 **Libraries:** Pandas, NumPy, Scikit-Learn  
+- 🧠 **DL:** TensorFlow, Keras, PyTorch  
+- 📊 **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
 
-    environment: [
-        "Anaconda 🐍",
-        "Virtual Environments ⚙️"
-    ]}
+---
 
-    dataAnalysis: [
-        "Data Cleaning & Preprocessing 🧹",
-        "Exploratory Data Analysis (EDA) 📊",
-        "Data Visualization 📈"
-    ],
+### 🛠️ Development
 
-   machineLearning: [
-    "Supervised Learning (Regression, Classification) 📉",
-    "Unsupervised Learning (Clustering) 📌",
-    "Feature Engineering & Feature Selection ⚙️",
-    "Data Preprocessing (Scaling, Encoding, Handling Missing Values) 🧹",
-    "Model Evaluation (Accuracy, Precision, Recall, F1-score, ROC-AUC) 📊",
-    "Cross Validation Techniques (K-Fold, Stratified) 🔁",
-    "Hyperparameter Tuning (Grid Search, Random Search) 🎯",
-    "Tree-Based Models (Decision Tree, Random Forest) 🌲",
-    "Distance-Based Models (KNN) 📍",
-    "Probabilistic Models (Naive Bayes) 📊",
-    "Ensemble Methods (Bagging, Boosting) 🚀",
-    "Overfitting & Underfitting Handling ⚖️"
-    ]
+- VS Code, Jupyter, Colab, PyCharm  
+- Git & GitHub  
+- Anaconda, Virtual Environments  
 
-    deepLearning: [
-        "Artificial Neural Networks (ANN)",
-        "Convolutional Neural Networks (CNN)",
-        "Model Training & Optimization",
-        "Backpropagation"
-    ],
+---
 
-    nlp: [
-        "Text Preprocessing",
-        "Tokenization, Stopword Removal",
-        "Stemming & Lemmatization",
-        "Vectorization (BoW, TF-IDF)",
-        "Word Embeddings (Word2Vec)",
-        "Text Similarity"
-    ],
+### 🚀 Deployment
 
-    currentFocus: [
-        "Transformers & LLMs",
-        "Advanced Deep Learning",
-        "Building Production-ready AI Systems"
-    ],
+- Streamlit, FastAPI, Flask  
+- Docker 🐳  
+- Render 🌐  
 
-    strengths: [
-        "Problem Solving",
-        "Feature Engineering",
-        "Data Understanding",
-        "Model Optimization"
-    ],
+---
 
-    motto: "Code with purpose, learn with passion 🚀"
-};
-```
-
-</td></tr>
+</td>
+</tr>
 </table>
+
+---
+
+## 📊 Data Science Skills
+
+### 🔍 Data Analysis
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+
+---
+
+### 🤖 Machine Learning
+- Supervised & Unsupervised Learning  
+- Feature Engineering & Selection  
+- Model Evaluation & Cross Validation  
+- Hyperparameter Tuning  
+- Ensemble Methods  
+
+---
+
+### 🧠 Deep Learning
+- ANN, CNN  
+- Backpropagation  
+- Model Training & Optimization  
+
+---
+
+### 💬 NLP
+- Text Preprocessing  
+- Tokenization, Lemmatization  
+- TF-IDF, Bag of Words  
+- Word2Vec  
+- Text Similarity  
+
+---
+
+## 🚀 Current Focus
+
+- Transformers & LLMs  
+- Gen-AI 
+- Production-ready AI Systems  
+
+---
+
+## 💡 Strengths
+
+- Problem Solving  
+- Feature Engineering  
+- Data Understanding  
+- Model Optimization  
+
+---
+
+## 🎯 Motto
+
+> Code with purpose, learn with passion 🚀
 
 
 ## 💻 Tech Stack
@@ -181,13 +162,6 @@ const prince = {
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
----
-
-## 🌱 Currently Learning
-
-* 🧠 Mlops
-* 🤖 GEN-AI
 
 ---
 
