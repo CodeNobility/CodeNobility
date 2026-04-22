@@ -175,6 +175,11 @@
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://princegupta.rf.gd/?i=1">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
