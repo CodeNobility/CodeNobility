@@ -52,7 +52,8 @@ const prince = {
     development: [
         "VS Code 💻",
         "Jupyter Notebook 📓",
-        "Google Colab ☁️"
+        "Google Colab ☁️",
+        "PyCharm 💻"
     ],
 
     dataVisualization: [
