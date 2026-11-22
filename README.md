@@ -20,24 +20,34 @@
 
 ### 👨‍💻 Profile
 
-- 🌍 **Location:** India 🇮🇳  
-- 💼 **Role:** Data Scientist  
+- 🌍 **Location:** Nepal 🇳🇵
+- 🎓 Education: B.Tech (Honors) Computer Science And Engineering - Data Science
+- 💼 Professional Interests: Artificial Intelligence, Machine Learning, Data Science & Generative AI
 
 ---
 
 ### 🧠 Skills
 
-- 🐍 **Languages:** Python  
-- 🗄️ **Data Languages:** SQL  
-- 🍃 **Databases:** MongoDB (NoSQL), MySQL/PostgreSQL  
+- 🐍 Programming Languages: Python, SQL
+- 🌐 Web Technologies: HTML, CSS, JavaScript
+- 📊 Data Analytics & Visualization: Microsoft Excel, Power BI, Tableau
+- 🍃 **Databases:** MongoDB (NoSQL), MySQL/PostgreSQL
+- 🤖 Machine Learning & AI: Machine Learning, Scikit-learn, Natural Language Processing (NLP), Generative AI, Retrieval-Augmented Generation (RAG)
+- 🧠 AI Frameworks & Libraries: LangChain
+- ⚙️ Frameworks: Django, FastAPI, Streamlit
+- 🚀 MLOps & DevOps: Docker, Git, GitHub
+- 📈 Digital Analytics: Google Analytics 4 (GA4), Google Tag Manager (GTM)
+- 🧹 Data Processing: Data Cleaning, Data Analysis, Data Visualization, Exploratory Data Analysis (EDA)
 
 ---
 
 ### 🤖 Domains
 
 - Machine Learning  
-- Deep Learning  
-- Natural Language Processing  
+- Gen AI
+- Data Science
+- Natural Language Processing
+- MLOps
 
 ---
 
@@ -46,17 +56,22 @@
 
 ### ⚙️ Tools & Tech
 
-- 🧪 **Libraries:** Pandas, NumPy, Scikit-Learn  
-- 🧠 **DL:** TensorFlow, Keras, PyTorch  
-- 📊 **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+- 🧪 Data Science Libraries: Pandas, NumPy, Scikit-learn, SciPy
+- 🤖 Generative AI & LLMs: LangChain, Hugging Face, OpenAI API
+- 🔍 Data Processing & NLP: NLTK, spaCy
+- 📊 Data Visualization: Matplotlib, Seaborn, Tableau, Power BI
+- 🗄️ Databases: MongoDB, MySQL, PostgreSQL
 
 ---
 
 ### 🛠️ Development
 
-- VS Code, Jupyter, Colab, PyCharm  
-- Git & GitHub  
-- Anaconda, Virtual Environments  
+- 💻 IDEs & Code Editors: VS Code, PyCharm
+- 📓 Notebook Environments: Jupyter Notebook, Google Colab
+- 🔧 Version Control: Git, GitHub
+- 🐍 Python Environment Management: Anaconda, Conda, Virtual Environments (venv)
+- 🐳 Containerization: Docker
+- 🖥️ Operating Systems: macOS, Linux, Windows
 
 ---
 
@@ -71,40 +86,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 📊 Data Science Skills
-
-### 🔍 Data Analysis
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization  
-
----
-
-### 🤖 Machine Learning
-- Supervised & Unsupervised Learning  
-- Feature Engineering & Selection  
-- Model Evaluation & Cross Validation  
-- Hyperparameter Tuning  
-- Ensemble Methods  
-
----
-
-### 🧠 Deep Learning
-- ANN, CNN  
-- Backpropagation  
-- Model Training & Optimization  
-
----
-
-### 💬 NLP
-- Text Preprocessing  
-- Tokenization, Lemmatization  
-- TF-IDF, Bag of Words  
-- Word2Vec  
-- Text Similarity  
 
 ---
 
